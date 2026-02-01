@@ -1,37 +1,51 @@
-##👋 Hi, I’m Jeevan Kumar (JK)
+# 👋 Hi, I'm Jeevan Kumar (JK)
 
-I’m a Computer Science graduate student with a strong interest in Data Science, Machine Learning, and Software Development.
-I enjoy building practical projects that solve real problems and help me learn systems end-to-end—from backend logic to deployment.
+🎓 Computer Science graduate student with a strong interest in  
+**Data Science, Machine Learning, and Backend Development**.
 
-🚀 What I’m currently working on
+I enjoy building practical projects that solve real-world problems and help me
+learn systems end-to-end — from backend logic to deployment.
 
-Data Science & Machine Learning projects
+---
 
-Web applications using Python and Flask
+## 🚀 What I'm Currently Working On
 
-Backend systems, APIs, and databases
+- 📊 Data Science & Machine Learning projects  
+- 🌐 Web applications using **Python & Flask**  
+- ⚙️ Backend systems, APIs, and databases  
+- 🧠 Improving problem-solving and system design skills  
 
-Improving my problem-solving and system design skills
+---
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-Languages: Python, SQL, Java
+**Languages**
+- Python, SQL, Java  
 
-Frameworks: Flask, Pandas, NumPy
+**Frameworks & Libraries**
+- Flask, Pandas, NumPy  
 
-Databases: MySQL, SQLite
+**Databases**
+- MySQL, SQLite  
 
-Tools: Git, GitHub, Linux, Docker (basics)
+**Tools**
+- Git, GitHub, Linux, Docker (basics)  
 
-Interests: Data Analysis, ML Models, Backend Development
+**Interests**
+- Data Analysis, ML Models, Backend Development  
 
-📫 How to reach me
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/your-link
+## 📫 How to Reach Me
 
-🌐 Portfolio: https://your-portfolio-link
+- 💼 **LinkedIn:** https://www.linkedin.com/in/your-link  
+- 🌐 **Portfolio:** https://your-portfolio-link  
+- ✉️ **Email:** your-email@example.com  
 
-✉️ Email: your-email@example.com
+---
+
+⭐ *Always learning, building, and improving — one project at a time.*
+
 
 <!--
 **KollapudiJeevan/KollapudiJeevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
