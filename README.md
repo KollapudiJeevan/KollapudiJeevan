@@ -36,16 +36,6 @@ learn systems end-to-end — from backend logic to deployment.
 
 ---
 
-## 📫 How to Reach Me
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-link  
-- 🌐 **Portfolio:** https://your-portfolio-link  
-- ✉️ **Email:** your-email@example.com  
-
----
-
-⭐ *Always learning, building, and improving — one project at a time.*
-
 
 <!--
 **KollapudiJeevan/KollapudiJeevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
